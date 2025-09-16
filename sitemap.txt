@@ -1,3 +1,4 @@
+http://example.com/2025/09/16/jack/
 http://example.com/2023/04/21/hello-world/
 http://example.com/links/index.html
 http://example.com/
